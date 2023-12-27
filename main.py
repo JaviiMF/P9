@@ -1,5 +1,5 @@
 def suma(a,b):
-	return a+b
+	return a-b
 
 resultado_1 = suma(4,9)
 resultado_2 = suma(12,6)
